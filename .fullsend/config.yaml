@@ -13,3 +13,5 @@ runtime: dummy
 agents:
     - name: needs-review-bot
       source: harness/needs-review-bot.yaml
+    - name: needs-coder-bot
+      source: harness/needs-coder-bot.yaml
