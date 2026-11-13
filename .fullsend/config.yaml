@@ -19,3 +19,5 @@ agents:
       source: harness/needs-triage-bot.yaml
     - name: on-label
       source: harness/on-label.yaml
+    - name: on-review
+      source: harness/on-review.yaml
